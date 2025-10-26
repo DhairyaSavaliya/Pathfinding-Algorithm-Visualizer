@@ -49,20 +49,20 @@ Understanding the trade-offs between different pathfinding algorithms is crucial
 - **Dropdown Mode**: Select from pre-generated location suggestions (faster)
 - **Custom Location Mode**: Enter any address or landmark manually
 
-**data/dual_input.png**
+![](data/dual_input.png)
 
 ### 3. **Algorithm Comparison**
 - **Single Algorithm Mode**: Test one algorithm at a time
 - **Compare All Algorithms Mode**: Run all four algorithms simultaneously and compare results
 
-**data/comparison.png**
+![](data/comparison.png)
 
 ### 4. **Visual Path Rendering**
 - Interactive map visualization with highlighted shortest paths
 - Clear start (green) and destination (red) markers
 - Clean, professional map aesthetics
 
-**data/map.png**
+![](data/map.png)
 
 ### 5. **Performance Metrics**
 - Distance traveled (in kilometers)
@@ -76,9 +76,9 @@ Understanding the trade-offs between different pathfinding algorithms is crucial
 - Automatic identification of fastest algorithm and shortest path
 - Detailed results table with highlighting
 
-**data/dist_comp.png**
+![](data/dist_comp.png)
 
-**data/exe_comp.png**
+![](data/exe_comp.png)
 
 ---
 
@@ -112,7 +112,7 @@ Understanding the trade-offs between different pathfinding algorithms is crucial
 - **Use Case**: Handles graphs with negative edge weights, detects negative cycles
 - **Characteristics**: Slower than Dijkstra but more versatile, works with negative weights
 
-**data/comparison.png**
+![](data/comparison.png)
 
 ---
 
