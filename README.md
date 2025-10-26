@@ -76,7 +76,7 @@ Understanding the trade-offs between different pathfinding algorithms is crucial
 - Automatic identification of fastest algorithm and shortest path
 - Detailed results table with highlighting
 
-![](data/dist_comp.png)
+![dist](data/dist_com.png)
 
 ![](data/exe_comp.png)
 
