@@ -6,7 +6,7 @@
 
 A comprehensive web application that visualizes and compares classic pathfinding algorithms on real-world road networks using OpenStreetMap data. Built with Streamlit, NetworkX, and OSMnx.
 
-main[(data/main.png)]
+[main](data/main.png)
 
 ---
 
