@@ -368,7 +368,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhairya**
 
-- GitHub: [@yourusername](https://github.com/DhairyaSavaliya)
+- GitHub: [https://github.com/DhairyaSavaliya](https://github.com/DhairyaSavaliya)
 - Email: dhairyasavaliya73@gmail.com
 
 **Project Link**: [https://github.com/yourusername/pathfinding-visualizer](https://github.com/DhairyaSavaliya/Pathfinding-Algorithm-Visualizer)
